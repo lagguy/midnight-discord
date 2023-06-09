@@ -29,13 +29,13 @@
 	/* bright text for colored buttons */
 	--bright-text: hsl(0, 0%, 100%);
 	/* header text for headers and certain text */
-	--header-text: hsl(0, 0%, 80%);
+	--header-text: hsl(0, 0%, 90%);
 	/* main text color (messages, titles, unread text/indicators) */
-	--primary-text: hsl(0, 0%, 70%);
+	--primary-text: hsl(0, 0%, 80%);
 	/* secondary text color (channels, descriptions, buttons) */
-	--secondary-text: hsl(0, 0%, 50%);
+	--secondary-text: hsl(0, 0%, 60%);
 	/* muted text color (input box placeholders, muted channels, message times) */
-	--muted-text: hsl(0, 0%, 34%);
+	--muted-text: hsl(0, 0%, 50%);
 	/* background of muted colored buttons on hover */
 	--muted-background-hover: hsl(270, 15%, 20%);
 	/* background of muted colored buttons on click */
