@@ -13,19 +13,19 @@
 /* a color picker should show up if you hover over the "hsl(x, y, z)" part */
 :root {
 	/* link color */
-	--link-color: hsl(190, 70%, 60%);
+	--link-color: hsl(290, 70%, 60%);
 	/* main accent color (mentions, folder icons, unread indicators) */
-	--accent-color: hsl(190, 60%, 50%);
+	--accent-color: hsl(290, 60%, 50%);
 	/* darker accent color (background of any accent items with text) */
-	--accent-background: hsl(190, 60%, 40%);
+	--accent-background: hsl(290, 60%, 40%);
 	/* even darker accent color (background of accent buttons when hover) */
-	--accent-background-2: hsl(190, 60%, 30%);
+	--accent-background-2: hsl(290, 60%, 30%);
 	/* even darker accent color (background of accent buttons when clicked) */
-	--accent-background-3: hsl(190, 60%, 20%);
+	--accent-background-3: hsl(290, 60%, 20%);
 	/* background of mention text and messages that mention you */
-	--mention-modifier: hsla(190, 60%, 50%, 0.1);
+	--mention-modifier: hsla(290, 60%, 50%, 0.1);
 	/* background of messages that mention you on hover */
-	--mention-hover-modifier: hsla(190, 60%, 50%, 0.05);
+	--mention-hover-modifier: hsla(290, 60%, 50%, 0.05);
 	/* bright text for colored buttons */
 	--bright-text: hsl(220, 40%, 90%);
 	/* header text for headers and certain text */
