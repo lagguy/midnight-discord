@@ -29,7 +29,7 @@
 	/* bright text for colored buttons */
 	--bright-text: hsl(0, 0%, 100%);
 	/* header text for headers and certain text */
-	--header-text: hsl(0, 0%, 900%);
+	--header-text: hsl(0, 0%, 90%);
 	/* main text color (messages, titles, unread text/indicators) */
 	--primary-text: hsl(0, 0%, 80%);
 	/* secondary text color (channels, descriptions, buttons) */
